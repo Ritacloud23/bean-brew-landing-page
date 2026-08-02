@@ -111,7 +111,7 @@ Examples include:
 
 ---
 
-# 🧠 Tailwind CSS Concepts Applied
+# Tailwind CSS Concepts Applied
 
 Throughout this project, the following Tailwind utility classes were used:
 
@@ -167,7 +167,7 @@ Throughout this project, the following Tailwind utility classes were used:
 
 ---
 
-# 📚 What I Learned
+#  What I Learned
 
 Working on this project strengthened my understanding of:
 
@@ -182,7 +182,7 @@ Working on this project strengthened my understanding of:
 
 ---
 
-# ⚡ Challenges
+# Challenges
 
 Some of the challenges encountered during development included:
 
@@ -196,7 +196,7 @@ These challenges helped reinforce best practices for responsive frontend develop
 
 ---
 
-# 💡 Future Improvements
+# Future Improvements
 
 - Dark Mode
 - Animation with Tailwind
@@ -253,7 +253,7 @@ Open the project in your browser.
 
 ---
 
-# 👩‍💻 About Me
+#  About Me
 
 Hi, I'm **Rita Nnenna**.
 
@@ -263,7 +263,7 @@ I enjoy turning ideas into clean, maintainable, and accessible user interfaces w
 
 ---
 
-# 🤝 Connect With Me
+# Connect With Me
 
 - **GitHub:** https://github.com/Ritacloud23
 - **LinkedIn:** https://linkedin.com/in/rita-nnenna
