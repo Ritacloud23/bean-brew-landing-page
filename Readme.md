@@ -1,4 +1,4 @@
-# ☕ Bean & Brew – Responsive Restaurant Landing Page
+# ☕ Bean & Brew - Responsive Restaurant Landing Page
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -12,25 +12,16 @@ The goal was to demonstrate proficiency in responsive layouts, semantic HTML, an
 
 ---
 
-# 📸 Preview
+#  Preview
 
-> Replace the placeholder below with a screenshot of your project.
 
 <p align="center">
-  <img src="./img/full-webpage.pngpng" alt="Project Screenshot" width="900">
+  <img src="./img/full-webpage.png" alt="Project Screenshot" width="900">
 </p>
 
 ---
 
-# 🚀 Live Demo
-
-> Add your deployed project link here.
-
-**Live Site:** `https://your-live-site-link.com`
-
----
-
-# 🎯 Project Objectives
+# Project Objectives
 
 This project was built to demonstrate the ability to:
 
@@ -43,7 +34,7 @@ This project was built to demonstrate the ability to:
 
 ---
 
-# ✨ Features
+# Features
 
 - Responsive Navigation Bar
 - Hero Section with Call-to-Action Buttons
@@ -59,7 +50,7 @@ This project was built to demonstrate the ability to:
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 | Technology | Purpose |
 |------------|----------|
@@ -71,7 +62,7 @@ This project was built to demonstrate the ability to:
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```text
 bean-brew/
